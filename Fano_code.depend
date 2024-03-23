@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702026211 source:g:\c\fano_code\main.c
+	<stdio.h>
+	<stdlib.h>
+
